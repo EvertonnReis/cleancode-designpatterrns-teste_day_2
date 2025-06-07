@@ -9,16 +9,17 @@
 
 ## Instalação
 ```bash
-git clone <repo>
+git clone <[repo](https://github.com/EvertonnReis/cleancode-designpatterrns-teste_day_2.git)>
 cd cleancode&designpatterrns&teste_day2
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env
-
+```
 Execução
 ```bash
 python run.py
+```
 Testes
 ```bash
 python -m pytest tests/test_tutor_service.py
+```
