@@ -10,7 +10,7 @@
 ## Instalação
 ```bash
 git clone <[repo](https://github.com/EvertonnReis/cleancode-designpatterrns-teste_day_2.git)>
-cd cleancode&designpatterrns&teste_day2
+cd cleancode&designpatterrns&teste_day_2
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
